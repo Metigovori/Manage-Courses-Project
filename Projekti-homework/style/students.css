@@ -1,0 +1,10 @@
+.our-students>.img-container{
+    width: 300px;
+    height: 300px;
+   
+}
+
+.our-students h1{
+    display: flex;
+    justify-content: center;
+}
